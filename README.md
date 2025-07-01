@@ -72,3 +72,13 @@ An interactive dashboard where users can:
 
 ## 📁 Folder Structure
 
+data-aide-sim/
+│
+├── data/
+│ └── after_school_data.csv
+├── scripts/
+│ └── clean_data.py
+├── reports/
+│ └── cleaned_data_sample.csv (optional)
+├── app.py
+└── README.md
