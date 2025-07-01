@@ -87,5 +87,7 @@ data-aide-sim/
 ├── reports/
 
 │ └── cleaned_data_sample.csv
+
 ├── app.py
+
 └── README.md
